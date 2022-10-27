@@ -1,5 +1,5 @@
-# hololive_discography_cdn
+# discography_cdn
 
-This repo contain hololive discography resource
+This repo contain discography resource
 
 **For education purposes only**
